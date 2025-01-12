@@ -1,1 +1,1 @@
-# pong game
+# pong game python/pygame
